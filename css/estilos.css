@@ -122,6 +122,10 @@ body{
     color: rgb(150, 230, 161);
 }
 
+.service-parrafo{
+    text-align: justify;
+}
+
 .number{
     display: inline-block;
     background-image: linear-gradient(120deg, rgb(213, 252, 121) 0%, rgb(150, 230, 161) 100%);
